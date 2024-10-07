@@ -25,7 +25,3 @@ Este projeto é um exemplo de aplicação de login usando SwiftUI e Firebase. O 
 - **Models**: Representação dos dados e lógica de negócios.
 - **Services**: Comunicação com o Firebase para autenticação.
 - **Utils**: Extensões e funções auxiliares.
-
----
-
-Este projeto está em desenvolvimento, sinta-se à vontade para contribuir!
